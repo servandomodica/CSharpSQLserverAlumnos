@@ -1,0 +1,28 @@
+C:\tp2\Proyecto22\Proyecto22\bin\Debug\Proyecto22.exe.config
+C:\tp2\Proyecto22\Proyecto22\bin\Debug\Proyecto22.exe
+C:\tp2\Proyecto22\Proyecto22\bin\Debug\Proyecto22.pdb
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.csprojAssemblyReference.cache
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.FormularioPrincipal.resources
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.Properties.Resources.resources
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.csproj.GenerateResource.cache
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.csproj.CoreCompileInputs.cache
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.exe
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.pdb
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.MantenimientoDeCarreras.resources
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.MantenimientoAlumnos.resources
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.FormularioInscripciones.resources
+C:\tp2\Proyecto22\Proyecto22\obj\Debug\Proyecto22.FormularioInscriptosPorCarrera.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\bin\Debug\Proyecto22.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\bin\Debug\Proyecto22.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\bin\Debug\Proyecto22.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.csprojAssemblyReference.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.FormularioInscripciones.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.FormularioInscriptosPorCarrera.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.FormularioPrincipal.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.MantenimientoAlumnos.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.MantenimientoDeCarreras.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto22\Proyecto22\obj\Debug\Proyecto22.pdb
